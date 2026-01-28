@@ -1,0 +1,111 @@
+Emotional Support Pickle (ESP)
+
+A Meme Token With On-Chain Reward Utility
+
+⸻
+
+Abstract
+
+Emotional Support Pickle (ESP) is a decentralized meme token designed to combine playful branding with on-chain reward mechanics. ESP enables holders to receive variable rewards generated from real trading activity rather than token emissions or inflationary minting. The project focuses on simplicity, transparency, and community-driven engagement.
+
+ESP does not promise profits or guaranteed returns. All rewards are variable and dependent on on-chain activity, liquidity conditions, and market participation.
+
+⸻
+
+Introduction
+
+Most meme tokens rely purely on hype or inflationary rewards. ESP introduces a lightweight utility layer by integrating reflection-style reward distribution sourced from real transactional volume.
+
+The goal is to provide a fun, recognizable meme asset that also offers optional passive participation in on-chain activity, without requiring staking, lockups, or custodial control.
+
+⸻
+
+Core Principles
+	•	Decentralized & Non-Custodial
+	•	No Minting / Fixed Supply
+	•	Rewards Sourced From Trading Activity
+	•	No Staking or Lockups Required
+	•	Simple Tokenomics
+
+⸻
+
+Token Utility
+
+ESP serves three primary purposes:
+	1.	Meme Asset
+Community-driven branding, collectibles, art, and culture.
+	2.	Reward Participation
+Holders automatically receive rewards funded by trading activity.
+	3.	Ecosystem Integration
+ESP integrates with partner protocols and reward systems within the Reflectr ecosystem.
+
+⸻
+
+Reward Mechanics
+
+ESP distributes rewards to holders using a reflection-style mechanism.
+	•	Rewards are sourced from transactional volume.
+	•	No new ESP tokens are minted.
+	•	Rewards may be distributed in ESP or partner ecosystem assets (such as UltraDoge).
+
+Rewards are variable and depend on:
+	•	Trading volume
+	•	Liquidity depth
+	•	Market conditions
+
+There are no guaranteed yields.
+
+⸻
+
+Token Supply
+	•	Fixed Total Supply
+	•	No Mint Function
+	•	No Rebase Mechanism
+
+Any tokens allocated for operations or ecosystem functions are held transparently.
+
+⸻
+
+Smart Contract Overview
+	•	Standard ERC-style token on BNB Chain
+	•	Transfer tax mechanism
+	•	Automatic reward distribution
+	•	Liquidity-supportive design
+
+The contract does not contain:
+	•	Owner minting
+	•	Hidden supply inflation
+	•	Transfer restrictions after deployment
+
+⸻
+
+Security
+	•	Contract deployed and verified on-chain
+	•	No proxy upgradeability
+	•	No mint authority
+
+Community audits and reviews are encouraged.
+
+⸻
+
+Roadmap (High-Level)
+
+Phase 1
+	•	Token deployment
+	•	Website launch
+	•	Community growth
+
+Phase 2
+	•	Listings & data aggregators
+	•	Partner integrations
+	•	Visual content & collectibles
+
+Phase 3
+	•	Games, NFTs, and interactive experiences
+	•	Expanded integrations
+
+⸻
+
+Disclaimer
+
+Emotional Support Pickle (ESP) is a decentralized digital token created for entertainment and on-chain utility. It is not an investment contract, security, or financial product. Participation involves risk. Users should conduct their own research.
